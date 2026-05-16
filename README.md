@@ -59,8 +59,3 @@ For GitHub Pages:
 3. Go to **Pages**.
 4. Select the `main` branch and root folder.
 5. Save the settings.
-
-## Notes
-
-- `.claude/` and `.vscode/` are ignored through `.gitignore`.
-- Form submissions currently show front-end feedback only; no backend or email service is connected.
